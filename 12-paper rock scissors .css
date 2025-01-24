@@ -1,0 +1,10 @@
+body{background-color: rgb(25, 25, 25);color: white;font-family: Arial; ;
+}
+.title{font-size: 30px;font-weight: bold;}
+img{height: 50px;}
+.move{height:120px;width:120px;background-color:rgb(25, 25, 25) ;border:3px solid white;
+  border-radius: 60px;margin-right: 10px;background-color: transparent;cursor: pointer;margin-top: 50px;}
+.result,.you,.paragraph{font-size: 18px;}
+.you{margin-bottom: 60px;}
+.result{font-weight: bold;}
+.reset,.play{background-color: white;border:none;padding: 8px 15px;font-size: 15px ;cursor: pointer;}
